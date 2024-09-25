@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.login-auth</groupId>
 	<artifactId>login-auth</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAP</version>
 	<name>login-auth</name>
 	<description>Projeto Login com JWT e Spring Secutiry</description>
 	<url />
